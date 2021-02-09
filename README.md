@@ -1,1 +1,2 @@
 # progect-pygame
+pj[oi
